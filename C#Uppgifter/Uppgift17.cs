@@ -37,7 +37,7 @@ namespace Uppgift17
                         string teacher = Console.ReadLine();
 
                         teachers[subject] = teacher;
-                        Console.WriteLine("Sunject and teacher added.");
+                        Console.WriteLine("Subject and teacher added.");
                         break;
                     case "2":
                         Console.Write("Enter the name of the subject to remove: ");
