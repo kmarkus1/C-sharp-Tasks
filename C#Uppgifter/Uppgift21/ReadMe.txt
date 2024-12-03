@@ -1,0 +1,2 @@
+When the if statement is true it skips all the else if statements, so the code will only print "over 18" for any number over 18 and ignore the following 2 else if statements.
+To fix this check if age > 50 first, then age > 30 and last age > 18.
