@@ -10,7 +10,7 @@ namespace Uppgift18
     {
         static int Triangle(int width, int height)
         {
-            return width * height;
+            return width * height /2;
         }
         static void Main(string[] args)
         {
