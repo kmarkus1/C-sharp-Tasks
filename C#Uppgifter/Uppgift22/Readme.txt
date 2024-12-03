@@ -1,0 +1,2 @@
+i <= numbers.Length; needs to be i < numbers.Length;
+if you use <= it will try to use an index number that is outside the arrays range and cause an error. The last index in an array is it's length -1.
