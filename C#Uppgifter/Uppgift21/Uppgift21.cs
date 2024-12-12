@@ -25,6 +25,10 @@ namespace Uppgift21
             {
                 Console.WriteLine("Over 18");
             }
+            else
+            {
+                Console.WriteLine("Under 18);
+            }
         }
     }
 }
