@@ -27,7 +27,7 @@ namespace Uppgift21
             }
             else
             {
-                Console.WriteLine("Under 18);
+                Console.WriteLine("Under 18");
             }
         }
     }
